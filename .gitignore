@@ -1,0 +1,19 @@
+# OS/ZIP由来
+__MACOSX/
+.DS_Store
+._*
+
+# VSCode
+.vscode/
+
+# 秘密情報
+.env
+library.local.php
+style.css
+images
+
+# データ/ログ/アップロード（運用次第）
+db.txt
+logs/
+member_picture/
+uploads/
